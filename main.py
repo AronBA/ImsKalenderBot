@@ -42,4 +42,4 @@ async def cal(ctx):
         await ctx.send(embed=embed)
 
 
-bot.run("MTA2NjUyOTg5NTU5NDg1NjU1MA.G9YB0q.ySgFzOlgDY_rZ7hL19E70gD5mfsaJ2_Sp0i3rY")
+bot.run("INSERT_TOKEN_HERE")
