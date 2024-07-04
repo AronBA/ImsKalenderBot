@@ -1,3 +1,3 @@
 # ImsKalender
 
-Discord bot 
+Small Discord Bot which scraps the Calender from my School
